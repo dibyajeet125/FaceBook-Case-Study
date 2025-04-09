@@ -45,3 +45,5 @@ Ensemble Methods: Exploring techniques like stacking or voting classifiers to co
 Hyperparameter Tuning: Further refining hyperparameters to improve model generalization on unseen data.
 
 This project showcases the application of graph-based machine learning techniques to real-world social network data, highlighting the importance of feature engineering and model selection in achieving high predictive accuracy.
+
+DATASET LINK: https://www.kaggle.com/c/FacebookRecruiting/data?select=train.csv
